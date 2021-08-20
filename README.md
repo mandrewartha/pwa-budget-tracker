@@ -9,7 +9,7 @@ This budget tracker allows you to keep an eye on your finances whether or not yo
 
 ## Links
 
-This is deployed at:
+This is deployed at: https://mandrewartha.github.io/pwa-budget-tracker/
 
 It is deployed at heroku: https://ma-pwa-budget-tracker.herokuapp.com/
 
